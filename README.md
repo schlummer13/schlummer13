@@ -14,4 +14,5 @@ You can find me on:
 
 * [My website: somebot.com](https://www.somebot.com/)
 * [GitHub as @schlummer13 (you are here)](https://github.com/schlummer13)
+* [f.fenzl@somebot.de](mailto:f.fenzl@somebot.de)
 
