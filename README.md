@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey! I'm Florian Fenzl 👋
 
-<!--
-**schlummer13/schlummer13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer from Germany. 🇩🇪
 
-Here are some ideas to get you started:
+I currently live in Düsseldorf, Germany. 🇩🇪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have been building APIs and tools for Machine Learning and data systems with different teams and organizations. 🌎
+
+I created some Trader and Indicators and a bunch of other open source tools. 🚀
+
+I like to build things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
+
+You can find me on:
+
+* [My website: somebot.com](https://www.somebot.com/)
+* [GitHub as @schlummer13 (you are here)](https://github.com/schlummer13)
+
