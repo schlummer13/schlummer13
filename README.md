@@ -17,7 +17,7 @@ Over the years, I've had the privilege of crafting APIs and building tools for M
 I love exploring new technologies and pushing the boundaries of what's possible with code. 🤖  
 
 📬 Connect with me:
-- 🌐 [Website: somebot.com](https://www.somebot.com/)  
+- 🌐 [Website: somebot.de](https://www.somebot.de/)  
 - 💻 [GitHub: @schlummer13 (you're already here!)](https://github.com/schlummer13)  
 - 📧 [Email: f.fenzl@somebot.de](mailto:f.fenzl@somebot.de)  
 
