@@ -1,18 +1,24 @@
-### Hey! I'm Florian Fenzl 👋
+### Hey there! I'm Florian Fenzl 👋  
 
-I'm a software developer from Germany. 🇩🇪
+A passionate software developer hailing from the heart of Germany 🇩🇪 and currently calling Düsseldorf my home.  
 
-I currently live in Düsseldorf, Germany. 🇩🇪
+Over the years, I've had the privilege of crafting APIs and building tools for Machine Learning and data-driven systems, collaborating with diverse teams and organizations around the globe. 🌍  
 
-I have been building APIs and tools for Machine Learning and data systems with different teams and organizations. 🌎
+🚀 From creating custom trading strategies and indicators to contributing open-source projects, I thrive on turning ideas into impactful solutions.  
 
-I created some Trader and Indicators and a bunch of other open source tools. 🚀
+🔧 My tech stack includes:
+- Deep Learning/Machine Learning  
+- Distributed systems  
+- SQL & NoSQL databases  
+- Docker  
+- Python  
+- Modern backend APIs & frontend frameworks  
 
-I like to build things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
+I love exploring new technologies and pushing the boundaries of what's possible with code. 🤖  
 
-You can find me on:
+📬 Connect with me:
+- 🌐 [Website: somebot.com](https://www.somebot.com/)  
+- 💻 [GitHub: @schlummer13 (you're already here!)](https://github.com/schlummer13)  
+- 📧 [Email: f.fenzl@somebot.de](mailto:f.fenzl@somebot.de)  
 
-* [My website: somebot.com](https://www.somebot.com/)
-* [GitHub as @schlummer13 (you are here)](https://github.com/schlummer13)
-* [f.fenzl@somebot.de](mailto:f.fenzl@somebot.de)
-
+Let’s build something amazing together! 🚀  
