@@ -19,6 +19,7 @@ I love exploring new technologies and pushing the boundaries of what's possible 
 📬 Connect with me:
 - 🌐 [Website: somebot.de](https://www.somebot.de/)  
 - 💻 [GitHub: @schlummer13 (you're already here!)](https://github.com/schlummer13)  
-- 📧 [Email: f.fenzl@somebot.de](mailto:f.fenzl@somebot.de)  
+- 📧 [Email: f.fenzl@somebot.de](mailto:f.fenzl@somebot.de)
+- 🌐 [Wikipedia SomeBot](https://wiki.somebot.de)
 
 Let’s build something amazing together! 🚀  
