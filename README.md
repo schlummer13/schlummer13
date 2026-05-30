@@ -17,9 +17,9 @@ Over the years, I've had the privilege of crafting APIs and building tools for M
 I love exploring new technologies and pushing the boundaries of what's possible with code. 🤖  
 
 📬 Connect with me:
-- 🌐 [Website: somebot.de](https://www.somebot.de/)  
+- 🌐 [Website: floriancode.de](https://floriancode.de/)  
 - 💻 [GitHub: @schlummer13 (you're already here!)](https://github.com/schlummer13)  
-- 📧 [Email: f.fenzl@somebot.de](mailto:f.fenzl@somebot.de)
-- 🌐 [Wikipedia SomeBot](https://wiki.somebot.de)
+- 📧 [Email: hello@floriancode.de](mailto:hello@floriancode.de)
+- 🌐 [Wikipedia](https://wiki.floriancode.de)
 
 Let’s build something amazing together! 🚀  
