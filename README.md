@@ -2,6 +2,8 @@
 
 I'm a software developer from the heart of Germany 🇩🇪, currently based in **Düsseldorf**. 
 
+<img src="image.png" align="right" width="250" style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;" alt="Florian Fenzl">
+
 I love exploring new technologies and pushing the boundaries of what's possible with code—from low-level systems and machine learning pipelines to polished web and mobile applications. Over the years, I've collaborated with diverse teams worldwide to craft scalable APIs, data-driven tools, and custom trading strategies. 🌍
 
 ---
