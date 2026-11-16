@@ -1,25 +1,40 @@
-### Hey there! I'm Florian Fenzl 👋  
+# Hey there! I'm Florian Fenzl 👋
 
-A passionate software developer hailing from the heart of Germany 🇩🇪 and currently calling Düsseldorf my home.  
+I'm a software developer from the heart of Germany 🇩🇪, currently based in **Düsseldorf**. 
 
-Over the years, I've had the privilege of crafting APIs and building tools for Machine Learning and data-driven systems, collaborating with diverse teams and organizations around the globe. 🌍  
+I love exploring new technologies and pushing the boundaries of what's possible with code—from low-level systems and machine learning pipelines to polished web and mobile applications. Over the years, I've collaborated with diverse teams worldwide to craft scalable APIs, data-driven tools, and custom trading strategies. 🌍
 
-🚀 From creating custom trading strategies and indicators to contributing open-source projects, I thrive on turning ideas into impactful solutions.  
+---
 
-🔧 My tech stack includes:
-- Deep Learning/Machine Learning  
-- Distributed systems  
-- SQL & NoSQL databases  
-- Docker  
-- Python  
-- Modern backend APIs & frontend frameworks  
+### 🚀 Featured Projects
+Here is a selection of what I’m currently building and maintaining (more on [floriancode.de](https://floriancode.de/)):
 
-I love exploring new technologies and pushing the boundaries of what's possible with code. 🤖  
+* **[Archscript.dev](https://archscript.dev)** – *Developer Tooling & Architecture* (Füge hier gerne noch 3–4 Wörter zur genauen Funktion ein)
+* **[OpenEmployed](https://floriancode.de/)** – *Platform & Workforce Solutions* (Hier ebenfalls gerne den direkten Link/Kurzbeschreibung anpassen)
+* **[SEO Analysis Tool](https://seo.floriancode.de)** – *Automated web auditing, data extraction, and search performance insights*
+* **Algorithmic Trading** – *Custom trading strategies, technical indicators, and automated backtesting systems*
 
-📬 Connect with me:
-- 🌐 [Website: floriancode.de](https://floriancode.de/)  
-- 💻 [GitHub: @schlummer13 (you're already here!)](https://github.com/schlummer13)  
-- 📧 [Email: hello@floriancode.de](mailto:hello@floriancode.de)
-- 🌐 [Wikipedia](https://wiki.floriancode.de)
+---
 
-Let’s build something amazing together! 🚀  
+### 💻 Languages & Tech Stack
+
+**Languages I love working with:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Focus Areas & Tools:**
+* **Web & App Development:** Modern frontend frameworks, native iOS/macOS apps (Swift), and high-performance backend APIs
+* **AI & Data:** Deep Learning, Machine Learning, and data-driven pipelines
+* **Infrastructure & Databases:** Distributed systems, Docker, SQL & NoSQL databases
+
+---
+
+### 📬 Connect with me
+
+[![Website](https://img.shields.io/badge/Website-floriancode.de-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://floriancode.de/)
+[![Personal Wiki](https://img.shields.io/badge/Wiki-wiki.floriancode.de-0366d6?style=for-the-badge&logo=bookstack&logoColor=white)](https://wiki.floriancode.de)
+[![Email](https://img.shields.io/badge/Email-hello%40floriancode.de-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@floriancode.de)
+
+Let’s build something amazing together! 🚀
