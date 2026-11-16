@@ -11,8 +11,8 @@ I love exploring new technologies and pushing the boundaries of what's possible 
 ### 🚀 Featured Projects
 Here is a selection of what I’m currently building and maintaining (more on [floriancode.de](https://floriancode.de/)):
 
-* **[Archscript.dev](https://archscript.dev)** – *Developer Tooling & Architecture* (Füge hier gerne noch 3–4 Wörter zur genauen Funktion ein)
-* **[OpenEmployed](https://floriancode.de/)** – *Platform & Workforce Solutions* (Hier ebenfalls gerne den direkten Link/Kurzbeschreibung anpassen)
+* **[Archscript.dev](https://archscript.dev)** – *Developer Tooling & Architecture* ArchScript is an Architecture-as-Code tool for software architects, developers and technical teams
+* **[OpenEmployed](https://floriancode.de/)** – *Platform & Workforce Solutions* All in One Tool for GmbH's & UG's in Germany
 * **[SEO Analysis Tool](https://seo.floriancode.de)** – *Automated web auditing, data extraction, and search performance insights*
 * **Algorithmic Trading** – *Custom trading strategies, technical indicators, and automated backtesting systems*
 
